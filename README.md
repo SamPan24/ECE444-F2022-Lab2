@@ -14,3 +14,6 @@ Example 2-2:
 
 
 Activity 3:
+
+<img width="509" alt="Activity 3" src="https://user-images.githubusercontent.com/74392347/192860966-decd54ad-f827-430b-babb-3771caa51485.png">
+
